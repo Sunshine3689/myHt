@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈 我终于有自己的网页啦
 
 You can use the [editor on GitHub](https://github.com/Sunshine3689/myHt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
